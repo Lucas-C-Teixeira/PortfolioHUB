@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <a href="https://SEU-USUARIO.github.io/PortfolioHUB/" target="_blank">
+  <a href="https://lucas-c-teixeira.github.io/PortfolioHUB/" target="_blank">
     <img src="https://img.shields.io/badge/🌐-Acessar_Portfólio-0A66C2?style=for-the-badge">
   </a>
 </p>
